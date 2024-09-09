@@ -2,7 +2,7 @@
 **Company:** CODTECH IT SOLUTIONS\
 **ID:** 0105CS221065\
 **Domain:** JAVA PROGRAMMING\
-**Duration:** AUGUST 31th,2024 to SEPTEMBER 31th,2024
+**Duration:** SEPTEMBER th,2024 to OCTOBER 5th,2024
 
 ## Overview of the Project
 ![Task1_b](https://github.com/user-attachments/assets/e295b2e8-e249-42c7-98e8-0106ebef38a7)
